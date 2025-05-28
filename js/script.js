@@ -12,12 +12,12 @@ class Footer extends HTMLElement {
         <div class="container-fluid">
           <div class="footer">
             <div class="sort-note">
-              <a class="navbar-brand" href="index.html">Divya k</a>
-              <p>I’m Divya Kumari, a junior and talented Web Designer with front end development skills.</p>
+              <a class="navbar-brand" href="index.html">Yaried Y</a>
+              <p>I’m Yaried Yishak, a junior CSSE student developing full-stack skills.</p>
               <hr style="margin: 20px 0; color: rgb(82, 82, 82); width: 60%;">
-              <span class="contact"><a href="mailto:kumaridivya2796@gmail.com" class="email">
+              <span class="contact"><a href="mailto:yaried123@gmail.com" class="email">
                 <img src="./img/email.png" alt="email me"> &nbsp; &nbsp;
-                kumaridivya2796@gmail.com</a></span>
+                yaried123@gmail.com</a></span>
             </div>
             <div class="quike-links text-center">
               <ul>
@@ -25,19 +25,19 @@ class Footer extends HTMLElement {
                   <a href="index.html">Home</a>
                 </li>
                 <li>
-                  <a href="services.html">Services</a>
+                  
                 </li>
                 <li>
                   <a href="projects.html">Projects</a>
                 </li>
-                <li><a href="about.html">About Me</a></li>
+                
               </ul>
             </div>
             <div class="social-links text-center">
-              <a href="https://www.linkedin.com/in/iamdivyak/"><img src="./img/LinkedIn Circled.png" alt="linkedin"></a><br>
+              <a href="https://www.linkedin.com/in/yariedyishak/"><img src="./img/LinkedIn Circled.png" alt="linkedin"></a><br>
               <!-- <a href=""><img src="./img/Instagram.png" alt="Instagram"></a><br> -->
-              <a href="https://twitter.com/Imdivyakumari"> <img src="./img/Twitter.png" alt="twitter"></a><br>
-              <a href="https://github.com/Iamdivyak"><img src="./img/GitHub.png" alt="github"></a>  
+              
+              <a href="https://github.com/Deiray1"><img src="./img/GitHub.png" alt="github"></a>  
               
             </div>
           </div>
